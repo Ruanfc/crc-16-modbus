@@ -1,3 +1,4 @@
+// Este programa calcula crc-16/mobus e escreve no stdout
 #include <stdint.h>
 #include <stdio.h>
 #include <stdlib.h>
